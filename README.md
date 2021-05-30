@@ -1,4 +1,4 @@
 # xylophone
 
-A new xylophone application.
+Xylophone application built using FLutter.
 
